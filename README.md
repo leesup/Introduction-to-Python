@@ -6,7 +6,7 @@ My colleagues and I have co-developed and co-instructed a series of Introduction
 
 Here I'm sharing Jupyter notebooks we used for our courses divided into two parts. 
 
-The first Jupyter notebook covers:
+The first Jupyter Notebook covers:
 1. Commenting
 2. Identation
 3. Assigning a Variable
@@ -14,7 +14,7 @@ The first Jupyter notebook covers:
 5. Data Structures
 6. Functions
 
-The second Jupyter notebook covers: (This will be added in the future)
+The second Jupyter Notebook covers: (This will be added in the future)
 1. Conditional Logic Statements
 2. Loops
 3. File Input and Output
