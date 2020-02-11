@@ -7,6 +7,9 @@ My colleagues ([Emily Yaklich](https://github.com/emilyyaklich) and Robyn Stix) 
 We are sharing Jupyter Notebooks we used for our courses divided into two parts.
 
 [The first Jupyter Notebook](https://github.com/suhwanplee/Introduction-to-Python/blob/master/JupyterNotebooks/intro_python_1.ipynb) covers:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suhwanplee/Introduction-to-Python/master?filepath=JupyterNotebooks%2Fintro_python_1.ipynb)
+
   1. Commenting
   2. Identation
   3. Assigning a Variable
