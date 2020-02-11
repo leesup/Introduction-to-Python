@@ -2,7 +2,7 @@
 
 Hello, 
 
-My colleagues (Emily Yaklich and Robyn Stix) and I have co-developed and co-instructed a series of Introduction to Python courses. We designed these courses for those who have little to no experience working in Python. Our goal was to cover basic Python syntax as well as useful scientific applications.
+My colleagues ([Emily Yaklich](https://github.com/emilyyaklich) and Robyn Stix) and I have co-developed and co-instructed a series of Introduction to Python courses. We designed these courses for those who have little to no experience working in Python. Our goal was to cover basic Python syntax as well as useful scientific applications.
 
 We are sharing Jupyter Notebooks we used for our courses divided into two parts.
 

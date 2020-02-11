@@ -1,0 +1,9 @@
+name: intro_python_environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pands
+  - matplotlib
