@@ -6,7 +6,7 @@ My colleagues and I have co-developed and co-instructed a series of Introduction
 
 I'm sharing Jupyter Notebooks we used for our courses divided into two parts. 
 
-The first Jupyter Notebook covers:
+[The first Jupyter Notebook](https://github.com/suhwanplee/Introduction-to-Python/blob/master/JupyterNotebooks/intro_python_1.ipynb) covers:
 1. Commenting
 2. Identation
 3. Assigning a Variable
