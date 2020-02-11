@@ -4,7 +4,7 @@ Hello,
 
 My colleagues and I have co-developed and co-instructed a series of Introduction to Python courses. This course was designed for those who have little to no experience working in Python. Our goal was to cover basic Python syntax as well as useful scientific applications.
 
-Here I'm sharing Jupyter notebooks we used for our courses divided into two parts. 
+I'm sharing Jupyter Notebooks we used for our courses divided into two parts. 
 
 The first Jupyter Notebook covers:
 1. Commenting
