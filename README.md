@@ -2,14 +2,11 @@
 
 Hello, 
 
-My colleagues ([Emily Yaklich](https://github.com/emilyyaklich) and Robyn Stix) and I have co-developed and co-instructed a series of Introduction to Python courses. We designed these courses for those who have little to no experience working in Python. Our goal was to cover basic Python syntax as well as useful scientific applications.
+My colleagues ([Emily Yaklich](https://github.com/emilyyaklich) and [Robyn Stix](https://github.com/rstix287) and I have co-developed and co-instructed a series of Introduction to Python courses. We designed these courses for those who have little to no experience working in Python. Our goal was to cover basic Python syntax as well as useful scientific applications.
 
 We are sharing Jupyter Notebooks we used for our courses divided into two parts.
 
-[The first Jupyter Notebook](https://github.com/suhwanplee/Introduction-to-Python/blob/master/JupyterNotebooks/intro_python_1.ipynb) covers:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suhwanplee/Introduction-to-Python/master?filepath=JupyterNotebooks%2Fintro_python_1.ipynb)
-
+[The first Jupyter Notebook](https://github.com/leesup/Introduction-to-Python/blob/master/JupyterNotebooks/intro_python_1.ipynb) covers:
   1. Commenting
   2. Identation
   3. Assigning a Variable
@@ -17,7 +14,7 @@ We are sharing Jupyter Notebooks we used for our courses divided into two parts.
   5. Data Structures
   6. Functions
 
-The second Jupyter Notebook covers: (This will be added in the future as we progress more in the course)
+[The second Jupyter Notebook](https://github.com/leesup/Introduction-to-Python/blob/master/JupyterNotebooks/intro_python_2.ipynb) covers:
   1. Conditional Logic Statements
   2. Loops
   3. File Input and Output
